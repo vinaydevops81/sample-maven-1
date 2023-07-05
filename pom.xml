@@ -14,7 +14,7 @@
 
   <properties>
     <sonar.host.url>http://34.125.196.153:9000/</sonar.host.url>
-    <sonar.login>squ_94e2da72f08fc8942e578b36383431f610489613</sonar.login>
+    <sonar.login>squ_5e38d71a94691354a9472679d59400bfff1a6d5e</sonar.login>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
